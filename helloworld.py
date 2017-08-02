@@ -6,6 +6,5 @@ def prints2():
 
 
 
-prints()
 prints2()
 prints()
